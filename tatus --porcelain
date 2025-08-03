@@ -1,0 +1,2 @@
+[33m4aa7151[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m feat: consolidate server functionality into unified setup - Remove separate server/ folder - Move all models to lib/models/ - Integrate API handlers into Vite middleware - Add single Node.js production server - Update package.json scripts for unified workflow - Add JWT authentication - Improve project structure and documentation
+[33mf029828[m first commit
